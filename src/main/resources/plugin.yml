@@ -1,0 +1,5 @@
+name: Login
+version: '${project.version}'
+main: furkanahmet.login.Login
+api-version: 1.19
+authors: [ furkandetseliandahmetdikyamac ]
